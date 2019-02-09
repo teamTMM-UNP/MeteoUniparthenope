@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\1f42b62e2f39372fe5071da0eb685de4\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:design:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\b48be19f303fb9011460f456d9df5252\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\221caae174666ba252cf781d45f61e1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1bcfb1898598e571b450a42d17f92198\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\dff086fb3848532e716362b520adb61a\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\b3c52e45e96b84e29f142cb447edbebe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\e926819e6d5becb009a289211c79e994\AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\8a423a1fd362b8dada7880b0640abada\AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_geolocation:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\0a3576bf454ae41998a5e04fc6373e1c\AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\5c945fa0499e17a7a2dea69a0d842387\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\d37fd0c38d0d74f937a768eb0cfda8ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\23c3380fac00c9334f277289bcde5515\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\760b8494384356ead58afce1de1b6cab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\37f811edc3f382d4ea5c8d0bac92cb98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\5c4fe47f1565181ee42acdd367cd29d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fefdd4f1348908155d359b504a975467\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\2a2f1a115099b5e956eda7a9e8f10cb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\8fe37afbd85ec4d87422c15bed85b025\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\71616fa8e63a5f74e03235e1d3269ab9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e120bfbd74751d611fd9bf643bcedc5c\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:3:64-113
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:3:142-167
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:3:114-141
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:4:5-139
+	android:largeScreens
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:4:80-107
+	android:smallScreens
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:4:23-50
+	android:normalScreens
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:4:51-79
+	android:xlargeScreens
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:4:108-136
+uses-sdk
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\1f42b62e2f39372fe5071da0eb685de4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\1f42b62e2f39372fe5071da0eb685de4\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:design:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\b48be19f303fb9011460f456d9df5252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\b48be19f303fb9011460f456d9df5252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\221caae174666ba252cf781d45f61e1c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\221caae174666ba252cf781d45f61e1c\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1bcfb1898598e571b450a42d17f92198\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1bcfb1898598e571b450a42d17f92198\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\dff086fb3848532e716362b520adb61a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\dff086fb3848532e716362b520adb61a\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\b3c52e45e96b84e29f142cb447edbebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\b3c52e45e96b84e29f142cb447edbebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\e926819e6d5becb009a289211c79e994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\e926819e6d5becb009a289211c79e994\AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\8a423a1fd362b8dada7880b0640abada\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\8a423a1fd362b8dada7880b0640abada\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_geolocation:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\0a3576bf454ae41998a5e04fc6373e1c\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_geolocation:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\0a3576bf454ae41998a5e04fc6373e1c\AndroidManifest.xml:7:5-47
+MERGED from [:widgets-release:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\5c945fa0499e17a7a2dea69a0d842387\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\5c945fa0499e17a7a2dea69a0d842387\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\d37fd0c38d0d74f937a768eb0cfda8ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\d37fd0c38d0d74f937a768eb0cfda8ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\23c3380fac00c9334f277289bcde5515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\23c3380fac00c9334f277289bcde5515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\760b8494384356ead58afce1de1b6cab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\760b8494384356ead58afce1de1b6cab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\37f811edc3f382d4ea5c8d0bac92cb98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\37f811edc3f382d4ea5c8d0bac92cb98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\5c4fe47f1565181ee42acdd367cd29d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\5c4fe47f1565181ee42acdd367cd29d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fefdd4f1348908155d359b504a975467\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fefdd4f1348908155d359b504a975467\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\2a2f1a115099b5e956eda7a9e8f10cb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\2a2f1a115099b5e956eda7a9e8f10cb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\8fe37afbd85ec4d87422c15bed85b025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\8fe37afbd85ec4d87422c15bed85b025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\71616fa8e63a5f74e03235e1d3269ab9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\71616fa8e63a5f74e03235e1d3269ab9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e120bfbd74751d611fd9bf643bcedc5c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e120bfbd74751d611fd9bf643bcedc5c\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+	android:targetSdkVersion
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:5:42-71
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		INJECTED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:9:2-75
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:9:19-73
+application
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:10:5-19:19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\1f42b62e2f39372fe5071da0eb685de4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\1f42b62e2f39372fe5071da0eb685de4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1bcfb1898598e571b450a42d17f92198\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1bcfb1898598e571b450a42d17f92198\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\dff086fb3848532e716362b520adb61a\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\dff086fb3848532e716362b520adb61a\AndroidManifest.xml:19:5-21:19
+MERGED from [:widgets-release:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\5c945fa0499e17a7a2dea69a0d842387\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\5c945fa0499e17a7a2dea69a0d842387\AndroidManifest.xml:11:5-12:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e120bfbd74751d611fd9bf643bcedc5c\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e120bfbd74751d611fd9bf643bcedc5c\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:10:122-154
+	android:icon
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:10:92-121
+	android:allowBackup
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:10:65-91
+	android:theme
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:10:155-186
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:10:18-64
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:label
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:11:63-108
+	android:configChanges
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:11:109-170
+	android:theme
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:11:171-211
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:11:19-62
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:12:13-96
+	android:resource
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:12:59-93
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:12:24-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:18:9-64
+	android:name
+		ADDED from C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app\src\main\AndroidManifest.xml:18:19-61
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\171dfa93e6f7b80650094c8a3ec4dc64\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\dff086fb3848532e716362b520adb61a\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\dff086fb3848532e716362b520adb61a\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\dff086fb3848532e716362b520adb61a\AndroidManifest.xml:20:20-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:nativescript_geolocation:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\0a3576bf454ae41998a5e04fc6373e1c\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:nativescript_geolocation:] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\0a3576bf454ae41998a5e04fc6373e1c\AndroidManifest.xml:9:22-76
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e120bfbd74751d611fd9bf643bcedc5c\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e120bfbd74751d611fd9bf643bcedc5c\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ciro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e120bfbd74751d611fd9bf643bcedc5c\AndroidManifest.xml:26:13-58

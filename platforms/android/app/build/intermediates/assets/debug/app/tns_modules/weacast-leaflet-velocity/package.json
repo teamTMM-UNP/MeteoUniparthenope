@@ -1,0 +1,69 @@
+{
+  "_from": "weacast-leaflet-velocity@1.1.0",
+  "_id": "weacast-leaflet-velocity@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-oJb0/NSjs3U6RZFGlJ48T9Oa07w=",
+  "_location": "/weacast-leaflet-velocity",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "weacast-leaflet-velocity@1.1.0",
+    "name": "weacast-leaflet-velocity",
+    "escapedName": "weacast-leaflet-velocity",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/weacast-leaflet-velocity/-/weacast-leaflet-velocity-1.1.0.tgz",
+  "_shasum": "a096f4fcd4a3b3753a459146949e3c4fd39ad3bc",
+  "_spec": "weacast-leaflet-velocity@1.1.0",
+  "_where": "C:\\Users\\ciro\\Desktop\\NativeScript-Leaflet-Map-master\\NativeScript-Leaflet-Map-master",
+  "author": {
+    "name": "danwild@y7mail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/weacast/leaflet-velocity/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A custom layer for leaflet to visualise arbitrary velocities",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4"
+  },
+  "homepage": "https://github.com/weacast/leaflet-velocity#readme",
+  "keywords": [
+    "leaflet",
+    "velocity",
+    "ocean",
+    "current",
+    "wind",
+    "canvas",
+    "noaa",
+    "visualisation",
+    "overlay"
+  ],
+  "license": "MIT",
+  "main": "dist/leaflet-velocity.js",
+  "name": "weacast-leaflet-velocity",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weacast/leaflet-velocity.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}

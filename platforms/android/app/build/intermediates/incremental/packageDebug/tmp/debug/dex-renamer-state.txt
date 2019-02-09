@@ -1,0 +1,4 @@
+#Fri Feb 08 14:59:58 CET 2019
+base.0=C\:\\Users\\ciro\\Desktop\\NativeScript-Leaflet-Map-master\\NativeScript-Leaflet-Map-master\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

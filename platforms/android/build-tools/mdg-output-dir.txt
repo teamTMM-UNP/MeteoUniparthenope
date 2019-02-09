@@ -1,0 +1,1 @@
+C:\Users\ciro\Desktop\NativeScript-Leaflet-Map-master\NativeScript-Leaflet-Map-master\platforms\android\app/src/main/assets/metadata

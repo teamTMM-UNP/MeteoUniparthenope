@@ -1,0 +1,11 @@
+{
+    "leaflet-tilelayer-geojson": true,
+    "nativescript-geolocation": true,
+    "nativescript-theme-core": true,
+    "nativescript-webview-interface": true,
+    "tns-core-modules": true,
+    "weacast-leaflet-velocity": true,
+    "leaflet": true,
+    "nativescript-permissions": true,
+    "tns-core-modules-widgets": true
+}

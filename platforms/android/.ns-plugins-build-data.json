@@ -1,0 +1,12 @@
+{
+	"nativescript-geolocation": {
+		"C:\\Users\\ciro\\Desktop\\NativeScript-Leaflet-Map-master\\NativeScript-Leaflet-Map-master\\node_modules\\nativescript-geolocation\\platforms\\android\\include.gradle": "b4197a7b5556ea5de03f08097c27f72ec4d64c76",
+		"C:\\Users\\ciro\\Desktop\\NativeScript-Leaflet-Map-master\\NativeScript-Leaflet-Map-master\\node_modules\\nativescript-geolocation\\platforms\\android\\nativescript_geolocation.aar": "ce9bd3d06cdeb15fbe666e4fcf1afa53a0ec878b"
+	},
+	"nativescript-webview-interface": {
+		"C:\\Users\\ciro\\Desktop\\NativeScript-Leaflet-Map-master\\NativeScript-Leaflet-Map-master\\node_modules\\nativescript-webview-interface\\platforms\\android\\WebViewInterface.jar": "76c82949e18be2e64a13fcf1587898f426846790"
+	},
+	"tns-core-modules-widgets": {
+		"C:\\Users\\ciro\\Desktop\\NativeScript-Leaflet-Map-master\\NativeScript-Leaflet-Map-master\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "85168be13bc1b546c0f1d53f46bb892118ba3d9f"
+	}
+}

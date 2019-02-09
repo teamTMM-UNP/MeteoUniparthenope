@@ -1,0 +1,41 @@
+<Page
+	actionBarHidden="true"
+    navigatedTo="onNavigatingTo"
+    navigatedFrom="navigatedFrom"
+    xmlns="http://www.nativescript.org/tns.xsd">
+	
+	<ActionBar class="c-bg-white">
+		<Label class="c-blue" text="Meteo Uniparthenope" fontSize="20"></Label>
+		<ActionItem tap="onTapLog"
+					ios.position = "right"
+					text="Info" android.position="popup">
+		</ActionItem>
+		<ActionItem tap="onTapAbout"
+					ios.position = "right"
+					text="Setting" android.position="popup">
+		</ActionItem>
+	</ActionBar>
+	
+	<GridLayout rows="*,auto" columns="*" verticalAlignment="top">
+		<ContentView row="0" colSpan="2" class="map" col="1">
+			<web-view id="webView"></web-view>
+		</ContentView>
+		
+		<StackLayout orientation="vertical" horizontalAlignment="center" verticalAlignment="top" visibility="{{current_position}}" tap="onTapPosition" row="0" col="0" backgroundColor="rgba(64,153,255,0.6)" height="70" width="220">
+				<FlexboxLayout flexWrap="wrap" flexDirection="row" height="20">
+					<Label text="Posizione attuale: " verticalAlignment="center" style="font-weight:bold; flex-grow:1" />
+					<Label text="{{ position }}" verticalAlignment="center" />
+				</FlexboxLayout>
+				<FlexboxLayout flexWrap="wrap" flexDirection="row" height="20">
+					<Label text="Temperatura: " verticalAlignment="center" style="font-weight:bold; flex-grow:1" />
+					<Label text="{{ temp }}" verticalAlignment="center" />
+					<Image src="{{ icon }}" verticalAlignment="center" height="20" marginLeft="5"/>
+				</FlexboxLayout>
+				<FlexboxLayout flexWrap="wrap" flexDirection="row" height="20">
+					<Label text="Vento: " verticalAlignment="center" style="font-weight:bold; flex-grow:1" />
+					<Label text="{{ wind }}" verticalAlignment="center" />
+				</FlexboxLayout>
+			</StackLayout>
+	</GridLayout>	
+	
+</Page>

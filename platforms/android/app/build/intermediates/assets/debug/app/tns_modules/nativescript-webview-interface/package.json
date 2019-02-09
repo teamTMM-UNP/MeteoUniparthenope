@@ -1,0 +1,59 @@
+{
+  "_from": "nativescript-webview-interface@1.4.2",
+  "_id": "nativescript-webview-interface@1.4.2",
+  "_inBundle": false,
+  "_integrity": "sha512-WU1ineyxptr/sKIATuYSkf5q/iLhDHhLBH09viN+LTg4xCStTNm1qVvIzFCxSdlHdM8qlFzbpcPugPtp+HRszA==",
+  "_location": "/nativescript-webview-interface",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nativescript-webview-interface@1.4.2",
+    "name": "nativescript-webview-interface",
+    "escapedName": "nativescript-webview-interface",
+    "rawSpec": "1.4.2",
+    "saveSpec": null,
+    "fetchSpec": "1.4.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-webview-interface/-/nativescript-webview-interface-1.4.2.tgz",
+  "_shasum": "6559b46a8ac88026e111bdeb3690f59e5b98c329",
+  "_spec": "nativescript-webview-interface@1.4.2",
+  "_where": "C:\\Users\\ciro\\Desktop\\NativeScript-Leaflet-Map-master\\NativeScript-Leaflet-Map-master",
+  "author": {
+    "name": "Shripal Soni",
+    "email": "shripalsoni04@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/shripalsoni04/nativescript-webview-interface/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Nativescript plugin for bi-directional communication between webView and android/ios.",
+  "homepage": "https://github.com/shripalsoni04/nativescript-webview-interface",
+  "keywords": [
+    "Nativescript",
+    "Webview",
+    "Webview Interface"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/shripalsoni04/nativescript-webview-interface/blob/master/LICENSE"
+  },
+  "main": "index",
+  "name": "nativescript-webview-interface",
+  "nativescript": {
+    "platforms": {
+      "android": "1.5.0",
+      "ios": "1.5.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shripalsoni04/nativescript-webview-interface.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.4.2"
+}
